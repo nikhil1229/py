@@ -1,2 +1,0 @@
-# py
-basics of py
